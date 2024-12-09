@@ -1,2 +1,3 @@
-# DiscreteMathHomeWork
-graph
+# DiscreteStucture
+Team Antoine Price
+This C++ program models a network of cities and their travel connections, It also using a graph structure to store, cities and the costs of traveling between them. It uses an adjacency matrix and list to represent the connections, where each city is linked to others with specific travel costs. The program includes functions to add connections, display the graph, and calculate the shortest path from a starting city to others using Dijkstra's algorithm. Additionally, it finds the lowest-cost trip between any two cities by checking all direct connections. The program allows users to analyze city networks, find optimal travel routes, and dsplay the cost-efficient connections.
